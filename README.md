@@ -1,6 +1,6 @@
-# Herramienta de Cifrado Bash 🛡️
+# Herramienta de Encriptado Bash 🛡️
 
-Esta herramienta de cifrado Bash es una utilidad diseñada para realizar diversas operaciones de cifrado y encriptación de archivos de manera sencilla y eficiente desde la línea de comandos. Con esta herramienta, puedes generar claves GPG nuevas, exportar claves públicas, encriptar y desencriptar archivos, y calcular hashes MD5 para verificar la integridad de tus archivos.
+Esta herramienta de Encriptado Bash es una utilidad diseñada para realizar diversas operaciones de cifrado y encriptación de archivos de manera sencilla y eficiente desde la línea de comandos. Con esta herramienta, puedes generar claves GPG nuevas, exportar claves públicas, encriptar y desencriptar archivos, y calcular hashes MD5 para verificar la integridad de tus archivos.
 
 ### 📚 Características principales:
 ### 🚦**Interfaz de usuario intuitiva:**
