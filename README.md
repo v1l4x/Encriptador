@@ -21,7 +21,9 @@ La herramienta está escrita en Bash, lo que la hace fácil de entender y modifi
 
 ## 📋 Requisitos:
 🐧Linux/Unix
+
 #️⃣ Bash (Bourne otra vez SHell)
+
 💾 GnuPG (GPG)
 
 ### Instrucciones de uso:
