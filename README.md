@@ -26,6 +26,9 @@ La herramienta está escrita en Bash, lo que la hace fácil de entender y modifi
 
 ### Instrucciones de uso:
 1️⃣ Clona este repositorio en tu sistema local.
+
 2️⃣ Ejecuta el script cifrado.sh desde la línea de comandos.
+
 3️⃣ Sigue las instrucciones del menú interactivo para realizar las operaciones de cifrado deseadas.
+
 ❗️Disfruta de la seguridad y la tranquilidad que ofrece esta herramienta de cifrado Bash❗️
