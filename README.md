@@ -17,15 +17,16 @@ Puedes generar nuevas claves GPG, exportar claves públicas, encriptar y desencr
 ### 🎯**Facilidad de uso:**
 **La herramienta está escrita en Bash, lo que la hace fácil de entender y modificar para usuarios con conocimientos básicos de línea de comandos.**
 
-### ⭐**¡Empieza a proteger tus archivos con esta herramienta de cifrado Bash fácil de usar y potente!**⭐
 
 ## 📋 Requisitos:
 
 🐧Linux/Unix
 
-#️⃣ Bash (Bourne otra vez SHell)
+#️⃣ Bash 
 
 💾 GnuPG (GPG)
+
+🛡️ md5sun
 
 ## Instrucciones de uso:
 
