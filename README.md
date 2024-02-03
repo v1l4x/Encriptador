@@ -4,7 +4,7 @@ Esta herramienta de cifrado Bash es una utilidad diseñada para realizar diversa
 
 ### 📚 Características principales:
 **Interfaz de usuario intuitiva:** La herramienta presenta un menú interactivo que te guía a través de las diferentes opciones de cifrado disponibles.
-
+-----------------------------------
 🌐**Funcionalidades versátiles:** Puedes generar nuevas claves GPG, exportar claves públicas, encriptar y desencriptar archivos, y calcular hashes MD5 para verificar la integridad de tus archivos.
 
 ❌**Manejo de errores:** La herramienta está diseñada para manejar errores y proporcionar mensajes claros en caso de que ocurran problemas durante la ejecución.
