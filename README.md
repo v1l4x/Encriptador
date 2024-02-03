@@ -10,15 +10,16 @@ Esta herramienta de Encriptado Bash es una utilidad diseñada para realizar dive
 
 ### 🚦**Interfaz de usuario intuitiva:**
 La herramienta presenta un menú interactivo que te guía a través de las diferentes opciones de cifrado disponibles.
+</br>
 ### 🌐**Funcionalidades versátiles:**
 Puedes generar nuevas claves GPG, exportar claves públicas, encriptar y desencriptar archivos, y calcular hashes MD5 para verificar la integridad de tus archivos.
-
+</br>
 ### ❌**Manejo de errores:** 
 **La herramienta está diseñada para manejar errores y proporcionar mensajes claros en caso de que ocurran problemas durante la ejecución.**
-
+</br>
 ### 🔄**Personalizable:**
 **El código fuente está abierto y disponible para que puedas personalizar y adaptar la herramienta según tus necesidades específicas.**
-
+</br>
 ### 🎯**Facilidad de uso:**
 **La herramienta está escrita en Bash, lo que la hace fácil de entender y modificar para usuarios con conocimientos básicos de línea de comandos.**
 
