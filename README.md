@@ -1,4 +1,4 @@
-# Herramienta de Encriptado Bash 🛡️
+# Encriptador Bash – Proyecto de Práctica de Redes y Scripting 🛡️
 
 ![https://github.com/v1l4x](https://github.com/v1l4x/Encriptador/blob/main/Encriptador.png)
 
