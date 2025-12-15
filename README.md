@@ -13,7 +13,10 @@ La herramienta presenta un menú interactivo que te guía a través de las difer
 
 
 ### 🌐**Funcionalidades versátiles:**
-Puedes generar nuevas claves GPG, exportar claves públicas, encriptar y desencriptar archivos, y calcular hashes MD5 para verificar la integridad de tus archivos.
+
+- Generación y uso de **claves GPG** para encriptar y desencriptar archivos.  
+- Cálculo y verificación de **hashes MD5** para comprobar la integridad de archivos.  
+- Menús interactivos, control de errores y mensajes claros para el usuario.
 
 
 ### ❌**Manejo de errores:** 
