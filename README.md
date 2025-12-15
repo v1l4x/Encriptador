@@ -5,7 +5,7 @@
 
 Este proyecto nació durante el curso de Redes IFCTO110 en INADECO, donde se nos pedía practicar cifrado y encriptación de archivos.  
 Para aprovechar la oportunidad de aprender más, desarrollé este **script interactivo en Bash** que consolida varias funcionalidades de los ejercicios del curso y añade práctica de scripting real.
-
+---
 ### 📚 Conocimientos adquiridos
 - **Scripting y automatización:** útil para automatizar tareas, procesamiento de logs o verificación de integridad.  
 - **Seguridad de archivos y datos:** comprensión de cifrado y hashes, base para proteger información sensible.  
