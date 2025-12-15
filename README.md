@@ -37,7 +37,7 @@ La herramienta presenta un menú interactivo que te guía a través de las difer
 
 💾 GnuPG (GPG)
 
-🛡️ md5sun
+🛡️ md5sum
 
 ## Instrucciones de uso:
 
@@ -47,4 +47,4 @@ La herramienta presenta un menú interactivo que te guía a través de las difer
 
 3️⃣ Sigue las instrucciones del menú interactivo para realizar las operaciones de cifrado deseadas.
 
-❗️Disfruta de la seguridad y la tranquilidad que ofrece esta herramienta de cifrado Bash❗️
+❗️Este proyecto demuestra habilidades de scripting, automatización y manejo de datos sensibles, aplicables a tareas de seguridad y administración de sistemas.❗️
