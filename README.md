@@ -3,7 +3,8 @@
 ![https://github.com/v1l4x](https://github.com/v1l4x/Encriptador/blob/main/Encriptador.png)
 
 
-Esta herramienta de Encriptado Bash es una utilidad diseñada para realizar diversas operaciones de cifrado y encriptación de archivos de manera sencilla y eficiente desde la línea de comandos. Con esta herramienta, puedes generar claves GPG nuevas, exportar claves públicas, encriptar y desencriptar archivos, y calcular hashes MD5 para verificar la integridad de tus archivos.
+Este proyecto nació durante el **curso de Redes IFCTO110** en INADECO, donde se nos pedía practicar **cifrado y encriptación de archivos**.  
+Para aprovechar la oportunidad de aprender más, desarrollé este **script interactivo en Bash** que consolida varias funcionalidades de los ejercicios del curso y añade práctica de scripting real.
 
 ## 📚 Características principales:
 
