@@ -22,13 +22,13 @@ La herramienta presenta un menú interactivo que te guía a través de las difer
 ### ❌**Manejo de errores:** 
 **La herramienta está diseñada para manejar errores y proporcionar mensajes claros en caso de que ocurran problemas durante la ejecución.**
 
+### Relevancia para SOC Junior
 
-### 🔄**Personalizable:**
-**El código fuente está abierto y disponible para que puedas personalizar y adaptar la herramienta según tus necesidades específicas.**
+Aunque este proyecto surgió de un ejercicio de redes, refleja **habilidades transferibles a un entorno SOC**:
 
-
-### 🎯**Facilidad de uso:**
-**La herramienta está escrita en Bash, lo que la hace fácil de entender y modificar para usuarios con conocimientos básicos de línea de comandos.**
+- **Scripting y automatización:** útil para automatizar tareas de seguridad, procesamiento de logs o verificación de integridad.  
+- **Seguridad de archivos y datos:** comprensión de cifrado y hashes, base para asegurar información sensible.  
+- **Buenas prácticas de código:** modularidad, control de errores y documentación de comandos.
 
 
 ## 📋 Requisitos:
