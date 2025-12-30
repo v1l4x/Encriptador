@@ -1,6 +1,6 @@
 # CryptoSync – Proyecto de Práctica de Redes y Scripting 🛡️
 
-![Cryptosync Herramienta](CryptoSync/CryptoSync.png)
+![CryptoSync/CryptoSync.png](https://github.com/v1l4x/CryptoSync/blob/main/Cryptosync.png))
 
 
 Este proyecto nació durante el curso de Redes IFCTO110 en INADECO, donde se nos pedía practicar cifrado y encriptación de archivos.  
