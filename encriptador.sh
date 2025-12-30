@@ -113,7 +113,7 @@ function exportar_clave_publica() {
 
     if [ -n "$archivo_clave" ]; then
       id_clave=$(basename "$archivo_clave" | sed 's/\.rev$//')
-      gpg --armor --export "$id_clave" > /home/vil4x/Desktop/clave_publica.pub
+      gpg --armor --export "$id_clave" > directorio/donde/este/la/clave
       echo -e "\n ${blanco}[OK]${fin}${pistacho} La clave pública ha sido exportada con éxito.${fin} \n"
     else
       echo -e "\n ${magenta}[¡]${fin}${lila} Error: No se encontró ningún archivo con la clave pública.${fin} \n"
